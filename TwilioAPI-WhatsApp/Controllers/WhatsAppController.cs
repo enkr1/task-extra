@@ -24,8 +24,8 @@ namespace TwilioAPI_WhatsApp.Controllers
         {
             // Find your Account Sid and Token at twilio.com/console
             // DANGER! This is insecure. See http://twil.io/secure
-            const string accountSid = "AC9674fce0c45ad51f5d3524cb2902e249";
-            const string authToken = "677718a2b8ad09fb58a04e893ea36253";
+            const string accountSid = "";
+            const string authToken = "";
 
             TwilioClient.Init(accountSid, authToken);
 
