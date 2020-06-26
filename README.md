@@ -7,7 +7,9 @@ Pang Jing Hui | P1845259
 | 1. | GET | /WhatsApp | Call Twilio API, return a string content. |
 
 ## Postman testing
-
+### Call Twilio API to send message to WhatsApp:
+![](images/p1.png)
+a string is returned when the Twilio API successfully sends out the message.
 
 # References:
 1. https://www.twilio.com/docs/whatsapp/quickstart/csharp
